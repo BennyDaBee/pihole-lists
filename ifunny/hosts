@@ -253,3 +253,11 @@
 0.0.0.0	tnc16-alisg.isnssdk.com
 0.0.0.0	prebid.ifunny.co
 0.0.0.0	imp.control.kochava.com
+0.0.0.0 api.bidmachine.io
+0.0.0.0 api-us-was.bidmachine.io
+0.0.0.0 analystics.atom.ai.verve.com
+0.0.0.0 configuration.atom.ai.verve.com
+0.0.0.0 d.applovin.com
+0.0.0.0 events.ads.vungle.com
+0.0.0.0 googleads.g.doubleclick.net
+
