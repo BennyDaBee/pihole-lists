@@ -283,3 +283,6 @@
 0.0.0.0 mobile-log.cmtelematics.com
 0.0.0.0 e10499.dsce9.akamaiedge.net
 0.0.0.0 a1051.dscw154.akamai.net
+0.0.0.0 config.ads.vungle.com
+0.0.0.0 configure-tcp-ios.mtgglobals.com
+0.0.0.0 smaato_sdk_remote_config/json.sdk-files.smaato.net
